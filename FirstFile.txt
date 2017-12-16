@@ -1,6 +1,2 @@
 firstLine in git
-<<<<<<< HEAD
 make conflict in master repo
-=======
-make conflict in branch
->>>>>>> NghiaVo
