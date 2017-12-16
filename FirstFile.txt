@@ -1,2 +1,2 @@
 firstLine in git
-make conflict in branch752
+make conflict in branch
